@@ -1,2 +1,2 @@
-#READ ME TITLE
-##Playing with git
+# READ ME TITLE
+## Playing with git
